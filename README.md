@@ -11,7 +11,7 @@ A training set of 5,000 companies is provided with their respective categorizati
 ## Objective
 
 A testing set of 2,500 companies including their text description is provided without their labels.
-The objective is to to predict the industry lables of the 2,500 companies in the test set using NLP machine learning techniques.
+The objective is to predict the industry labels of the 2,500 companies in the test set using NLP machine learning techniques.
 
 ## Key Requirements
 - Numpy
@@ -22,10 +22,6 @@ The objective is to to predict the industry lables of the 2,500 companies in the
 
 ## The dataset
 The repository includes a dataset folder containing the training and evaluation datasets as csv files
-
-## Installation
-You can clone this repository using git by using this command
-```$ gh repo clone Moataz-Ab/ML_NLP_Case_Study```
 
 ## Approach
 - The text in the description column is preprocessed prior to NLP modeling
