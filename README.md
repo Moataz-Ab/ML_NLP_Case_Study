@@ -6,10 +6,12 @@ In this case study, a dataset of 7,500 companies that includes the company name 
 
 A training set of 5,000 companies is provided with their respective categorization labels. The dataset is provided for 5 classes with equal distribution.
 
-![](training_set_balance.jpg)
+![](dataset/training_set_balance.jpg)
 
-A testing set of 2,500 companies is provided without their labels
-The objective is to to predict the categorization labels (industry column) of the 2,500 companies in the test set using NLP machine learning techniques.
+## Objective
+
+A testing set of 2,500 companies including their text description is provided without their labels.
+The objective is to to predict the industry lables of the 2,500 companies in the test set using NLP machine learning techniques.
 
 ## Key Requirements
 - Numpy
@@ -33,5 +35,5 @@ You can clone this repository using git by using this command
 
 ## Results
 - F1 Macro is used as a scoring metric to consider both precision and recall while giving equal importance to all classes
-- The optimized model presents 0.86 F1 Macro score
+- The optimized model presents **86.8%** F1 Macro score
 
