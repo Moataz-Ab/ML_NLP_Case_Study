@@ -34,7 +34,7 @@ The repository includes a dataset folder containing the training and evaluation 
 - The optimized model presents **86.8%** F1 Macro score
 
 ## Installation
-You can clone this repository using git by using this command
+You can clone this repository on git by using this command
 ```$ gh repo clone Moataz-Ab/ML_NLP_Case_Study```
 
 ## Contributions
