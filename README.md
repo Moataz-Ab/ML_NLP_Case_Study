@@ -14,11 +14,11 @@ The objective is to to predict the categorization labels (industry column) of th
 - Scikit-learn
 
 ## The dataset
-The repository includes a dataset folder containing a the training and evaluation datasets as csv files
+The repository includes a dataset folder containing the training and evaluation datasets as csv files
 
 ## Installation
 You can clone this repository using git by using this command
-gh repo clone Moataz-Ab/ML_NLP_Case_Study
+```$ gh repo clone Moataz-Ab/ML_NLP_Case_Study
 
 ## Approach
 - The text in the description column is preprocessed prior to NLP modeling
