@@ -18,7 +18,7 @@ The repository includes a dataset folder containing the training and evaluation 
 
 ## Installation
 You can clone this repository using git by using this command
-```$ gh repo clone Moataz-Ab/ML_NLP_Case_Study
+```$ gh repo clone Moataz-Ab/ML_NLP_Case_Study```
 
 ## Approach
 - The text in the description column is preprocessed prior to NLP modeling
